@@ -1,0 +1,11 @@
+Model Information:
+* title:	Target Range
+* source:	https://sketchfab.com/3d-models/target-range-45c07cbdfa3e49d594fdc2dd6c2940ea
+* author:	Philipp (https://sketchfab.com/philipp12345)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Target Range" (https://sketchfab.com/3d-models/target-range-45c07cbdfa3e49d594fdc2dd6c2940ea) by Philipp (https://sketchfab.com/philipp12345) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
